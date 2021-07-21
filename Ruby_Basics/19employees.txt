@@ -1,0 +1,9 @@
+Jim, Sales
+Andy, Sales 
+Kelly, Sales 
+Creed, Customer Service
+Micheal, Manager 
+Jan, Quality Assurance 
+
+Saphal, CEO
+Saphal, CEO
